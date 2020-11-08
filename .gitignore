@@ -1,0 +1,5 @@
+.vscode/*
+.idea/*
+downloads/*
+cmake-build-debug/*
+build/*
